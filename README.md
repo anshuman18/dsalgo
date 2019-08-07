@@ -1,2 +1,2 @@
 # dsalgo
-ds and algo
+collection of ds and algo problems
